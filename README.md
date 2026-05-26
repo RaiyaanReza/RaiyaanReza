@@ -8,17 +8,13 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Full--Stack-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-orange?style=for-the-badge"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaiyaanReza/RaiyaanReza/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaiyaanReza/RaiyaanReza/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaiyaanReza/RaiyaanReza/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://raw.githubusercontent.com/RaiyaanReza/RaiyaanReza/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" width="100%" />
 
 </div>
 
@@ -51,9 +47,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyaanReza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyaanReza&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiyaanReza&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF" width="100%"/>
@@ -66,19 +66,19 @@
 <div align="center">
 
 <a href="https://github.com/RaiyaanReza/AI-Powered-Smart-Agriculture-Advisory-Platform-for-Bangladesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=AI-Powered-Smart-Agriculture-Advisory-Platform-for-Bangladesh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=AI-Powered-Smart-Agriculture-Advisory-Platform-for-Bangladesh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/RaiyaanReza/PawCare-GenAI-Medical-Assistant-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=PawCare-GenAI-Medical-Assistant-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=PawCare-GenAI-Medical-Assistant-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/RaiyaanReza/MathScriber-AI-Powered-Math-to-Latex-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=MathScriber-AI-Powered-Math-to-Latex-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=MathScriber-AI-Powered-Math-to-Latex-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/RaiyaanReza/rag_chatbot_on_youtube_video">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=rag_chatbot_on_youtube_video&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaiyaanReza&repo=rag_chatbot_on_youtube_video&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
 </a>
 
 </div>
