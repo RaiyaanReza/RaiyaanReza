@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raiyan%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Specialist%20%E2%80%A2%20RAG%20Architect&descAlignY=55&descSize=16"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=🤖+Building+Intelligent+RAG+Applications;⚡+Full-Stack+Web+%26+Mobile+Engineer;🧠+LLM+Optimization+%26+Vector+Databases;🌱+AI-Powered+Solutions+for+Real+Problems;🚀+Turning+Ideas+into+Scalable+Products" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
