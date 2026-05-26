@@ -7,14 +7,32 @@
 
 ---
 
-## 💫 About Me
+## 🚀 Featured AI & Full-Stack Projects
 
-```🎯 Crafting intelligent, context-aware web ecosystems by bridging the gap between cutting-edge Machine Learning and robust Full-Stack architecture.```
-
-* 🔭 **Current Focus:** Engineering Retrieval-Augmented Generation (RAG) pipelines, advanced semantic chunking strategies, and lightning-fast search indexing frameworks like **Video Sage**.
-* 👯 **Collaboration:** Open to collaborating on high-performance AI tools, complex React ecosystem infrastructures, and scalable API backend systems.
-* 🌱 **Research & Learning:** Deepening knowledge in fine-tuning generative models, processing complex multi-modal layouts, and scaling distributed vector clusters.
-* ⚡ **Philosophy:** Transforming messy, unstructured real-world datasets into clean, actionable, enterprise-grade vector knowledge pools.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Smart Agriculture Advisory Platform</h3>
+      <p>An AI-powered diagnostic and recommendation ecosystem tailored for localized farming optimization in Bangladesh.</p>
+      <a href="https://github.com/RaiyaanReza/AI-Powered-Smart-Agriculture-Advisory-Platform-for-Bangladesh"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐾 PawCare GenAI Medical Assistant</h3>
+      <p>An intelligent, generative AI assistant application optimized for pet health diagnostics and care tracking.</p>
+      <a href="https://github.com/RaiyaanReza/PawCare-GenAI-Medical-Assistant-App"><b>View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📐 MathScriber AI</h3>
+      <p>An innovative AI-powered application designed to scan handwritten/printed mathematical equations and convert them cleanly into LaTeX syntax.</p>
+      <a href="https://github.com/RaiyaanReza/MathScriber-AI-Powered-Math-to-Latex-App"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%" alt="Dev Quote" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,24 +49,16 @@
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Analytics & Impact
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RaiyanReza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=41B883&icon_color=41B883" width="100%" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanReza&theme=tokyonight&hide_border=true&side_by_side=true&stroke=41B883&ring=41B883" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyanReza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=41B883" width="70%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaiyanReza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=41B883&icon_color=41B883" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanReza&theme=tokyonight&hide_border=true&stroke=41B883&ring=41B883" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyanReza&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&title_color=41B883" width="65%" alt="Top Languages" />
+</p>
 
 ---
 
@@ -68,10 +78,4 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RaiyanReza&label=PROFILE+VIEWS&color=41B883&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Dev Quote" />
 </p>
